@@ -1,5 +1,5 @@
 About Me
-👋 Welcome to My LinkedIn Profile! As a passionate proponent of data science and artificial intelligence, I am captivated by their transformative capabilities. I am currently enrolled in the esteemed Tech Master's Certificate Program in Artificial Intelligence (AI) with Data Science, where I am sharpening my analytical skills and establishing a strong base in statistics, programming, and machine learning.
+👋 Welcome to My GitHub Profile! As a passionate proponent of data science and artificial intelligence, I am captivated by their transformative capabilities. I am currently enrolled in the esteemed Tech Master's Certificate Program in Artificial Intelligence (AI) with Data Science, where I am sharpening my analytical skills and establishing a strong base in statistics, programming, and machine learning.
 
 My Mission
 💡My mission is to empower individuals by eventually leveraging AI and Data Science to streamline repetitive and time-consuming processes, saving them valuable time and money. This endeavour aims not only to improve efficiency, but also to develop a profitable business model based on these technological advancements.
